@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mcmxciillan
+- 👋 Hi, I’m Corey
 - 👀 I’m interested in improving how people live their lives
 - 🌱 I’m currently learning scala
-- 💞️ I’m looking to collaborate on anything i don't know yet :)
 - 📫 You can reach me by sending me a message on twitter at [@mcmxciillan](https://twitter.com/McMxciillan)
 
 <!---
