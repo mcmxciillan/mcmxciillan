@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Corey
-- 👀 I’m interested in improving how people live their lives
+- 💙💛 I’m a Masters student at NC A&T
 - 🌱 I’m currently learning scala
 - 📫 You can reach me by sending me a message on twitter at [@mcmxciillan](https://twitter.com/McMxciillan)
 
