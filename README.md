@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Corey
-- 💙💛 I’m a Masters student at NC A&T
-- 🌱 I’m currently learning scala
+- 💙💛 I’m a Computer Science Masters student at NC A&T, focusing on the Software Engineering and Cyber Security tracks
 - 📫 You can reach me by sending me a message on twitter at [@mcmxciillan](https://twitter.com/McMxciillan)
 
 <!---
