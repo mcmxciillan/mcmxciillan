@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Corey
-- 📫 You can reach me by sending me a message on twitter at [@mcmxciillan](https://twitter.com/McMxciillan)
+- 📫 You can reach me by sending me a message on X at [@mcmxciillan](https://x.com/McMxciillan)
 
 <!---
 mcmxciillan/mcmxciillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
